@@ -2,3 +2,4 @@ Pour clonner : `git clone <url_du_repository>`
 Pour ajouter un fichier : `git add <nom_du_fichier>`
 Pour commit : `git commit -m "<message du commit>"`
 Pour push : `git push`
+Pour pull : `git pull`
