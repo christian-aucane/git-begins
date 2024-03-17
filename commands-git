@@ -3,3 +3,6 @@ Pour ajouter un fichier : `git add <nom_du_fichier>`
 Pour commit : `git commit -m "<message du commit>"`
 Pour push : `git push`
 Pour pull : `git pull`
+Pour créer une branche : `git branch <nom_de_la_branche>`
+Pour changer de branche : `git checkout <nom_de_la_branche>`
+Pour créer une branche et aller dessus directement : `git checkout -b <nom_de_la_branche>`
